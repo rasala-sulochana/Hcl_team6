@@ -1,0 +1,11 @@
+INFO:root:A new log came
+INFO:root:Log is recorded
+INFO:root:A new log came
+INFO:root:Log is recorded
+INFO:root:A new log came
+ERROR:root:invalid literal for int() with base 10: 'sulochana'
+Traceback (most recent call last):
+  File "C:\Users\user796\Desktop\team6\level5\demo2log.py", line 5, in <module>
+    n1=int(input("enter the first number"))
+ValueError: invalid literal for int() with base 10: 'sulochana'
+INFO:root:Log is recorded
